@@ -1,0 +1,12 @@
+[submodule "RAOR-Data-Microservice"]
+	path = RAOR-Data-Microservice
+	url = https://github.com/call-for-code-team-five/RAOR-Data-Microservice.git
+[submodule "RAOR-Frontend-Microservice"]
+	path = RAOR-Frontend-Microservice
+	url = https://github.com/call-for-code-team-five/RAOR-Frontend-Microservice.git
+[submodule "RAOR-ML_Microservice"]
+	path = RAOR-ML_Microservice
+	url = https://github.com/call-for-code-team-five/RAOR-ML-Microservice.git
+[submodule "RAOR-Config-Microservice"]
+	path = RAOR-Config-Microservice
+	url = https://github.com/call-for-code-team-five/RAOR-Config-Microsevice.git
